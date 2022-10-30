@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(161, 199, 241);
+}
+.card{
+    background-color: #fff;
+    margin:150px auto;
+    padding: 20px;
+    width: 45%;
+    text-align: center;
+    
+}
+input{
+    width: 90%;
+    margin: 20px auto;
+    padding: 10px 10px;
+}
+button{
+    padding:20px 30px;
+    background: rgb(150, 190, 209);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+}
+button:hover{
+    
+    border: 2px solid rgb(217, 244, 252);
+}
+.card>div{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(150, 190, 209);
+}
